@@ -1,2 +1,2 @@
 # project
-Astro aura
+pic gallary  
