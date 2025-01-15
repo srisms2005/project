@@ -1,0 +1,19 @@
+ img{
+    width:50%;
+    height: 50vh;
+    object-fit: cover;
+    border: 1px solid white;
+    border-radius: 10px;
+    transition: all ease-in-out 0.5s;
+}
+img:hover{
+    width: 90%;
+}
+body{
+    background-color: aqua;
+}
+.box {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+} 
